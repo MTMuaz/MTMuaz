@@ -2,7 +2,7 @@
 
 ### Hi there 👋, My name is MD. Mustafa Tahmid Muaz
 #### I am a Frontend Web Developer 
-![I am a Frontend Web Developer ](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyQqIYy_jcDBk3QRCtp6kjE48eym82hebcc9LBcWnRpFXw178Tx8GSwZa7Nu6Uif1coyrUW36sLbk_C-8adWM-RmUGoelgeBHv9RYXyRWWpUyNApRNht8GNJmjiqBMTkGGCNVNkwOO2we6IS436HYGmqvRC8BlnGibBlXfdw8AyACtefxy5yuSGs8iTJuQ/s5456/Skills.png)
+![I am a Frontend Web Developer ]([https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyQqIYy_jcDBk3QRCtp6kjE48eym82hebcc9LBcWnRpFXw178Tx8GSwZa7Nu6Uif1coyrUW36sLbk_C-8adWM-RmUGoelgeBHv9RYXyRWWpUyNApRNht8GNJmjiqBMTkGGCNVNkwOO2we6IS436HYGmqvRC8BlnGibBlXfdw8AyACtefxy5yuSGs8iTJuQ/s5456/Skills.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyQqIYy_jcDBk3QRCtp6kjE48eym82hebcc9LBcWnRpFXw178Tx8GSwZa7Nu6Uif1coyrUW36sLbk_C-8adWM-RmUGoelgeBHv9RYXyRWWpUyNApRNht8GNJmjiqBMTkGGCNVNkwOO2we6IS436HYGmqvRC8BlnGibBlXfdw8AyACtefxy5yuSGs8iTJuQ/s5456/Skills.png))
 I am a learner of web developing.
 
 Skills: HTML || CSS || JavaScript || Python
