@@ -1,7 +1,11 @@
-
-
 ### Hi there 👋, My name is MD. Mustafa Tahmid Muaz
+![I am a Frontend Web Developer ](https://images.pexels.com/photos/23928823/pexels-photo-23928823.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
+
+
 #### I am a Frontend Web Developer 
+
+I am a learner of web developing.
 
 Skills: HTML || CSS || JavaScript || Python
 
