@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is MD. Mustafa Tahmid Muaz
 #### I am a Frontend Web Developer 
-![I am a Frontend Web Developer ]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://www.canva.com/design/DAGE696qTuU/QnBzXdOCwW9WnkcPBaWx0w/edit?ui=eyJEIjp7IkoiOnsiQiI6eyJBPyI6IkIifX19LCJBIjp7IkYiOnRydWV9LCJHIjp7IkQiOnsiRCI6eyJBPyI6IkEiLCJBIjoiQiJ9fX19))
 
 I am a learner of web developing.
 
